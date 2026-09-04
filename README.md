@@ -11,6 +11,8 @@ nav happens once and applies everywhere.
 - `assets/style.css`, `assets/site.js` — shared styles and the mobile-nav script
 - `assets/logo.png`, `assets/logo-mark.png` — full lockup and compact mark (transparent PNG;
   both are placed on a white "plate" in the CSS so the navy/orange art keeps contrast in dark mode)
+- `assets/favicon.ico`, `assets/favicon-32.png`, `assets/favicon-192.png`, `assets/apple-touch-icon.png` —
+  browser tab / bookmark / home-screen icons, generated from the compact mark
 
 `impact.html` is intentionally not included in this package — it's unlinked from
 the live site and left out of the repo so the funding figures aren't sitting in
